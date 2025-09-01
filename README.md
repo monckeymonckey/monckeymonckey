@@ -1,7 +1,7 @@
-## Hi there 👋
+ ## It´s me, hi 👋
 >>Ayush.mailinfo
 ["322330432@iztacala.unam.mx"]
-
+- 🔭 Actualmente estoy ... estudiando el segundo año de la licenciatura de Ecología
 <!--
 **monckeymonckey/monckeymonckey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
