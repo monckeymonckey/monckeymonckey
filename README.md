@@ -11,7 +11,7 @@
 - Tengo una guitarra y mi objetivo es aprender a tocarla bien, sin embargo, se me complica un poco.
 - Como habrán podido notar las áreas que más me gustan de la carrera son las relacionadas con sustentabilidad y restauración 🤔
 
-[![](images/22yeii.webp)](![](images/22yeii.webp))
+![](https://static.wikia.nocookie.net/disney/images/2/25/Profile_-_22.png/revision/latest?cb=20210126230554)
 
 
 -<!--
