@@ -11,7 +11,8 @@
 - Tengo una guitarra y mi objetivo es aprender a tocarla bien, sin embargo, se me complica un poco.
 - Como habrán podido notar las áreas que más me gustan de la carrera son las relacionadas con sustentabilidad y restauración 🤔
 
-![](images/22yeii.webp)
+[![](images/22yeii.webp)](![](images/22yeii.webp))
+
 
 -<!--
 **monckeymonckey/monckeymonckey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
